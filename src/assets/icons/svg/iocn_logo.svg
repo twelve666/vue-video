@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="147.746" height="80.173" viewBox="0 0 147.746 80.173">
+  <g id="组_227" data-name="组 227" transform="translate(-303.689 -85.002)">
+    <g id="组_82" data-name="组 82" transform="translate(358.36 102.4)">
+      <path id="路径_71" data-name="路径 71" d="M5.231,0A5.652,5.652,0,0,1,10.71,5.454l.908,38.787a5.05,5.05,0,0,1-5.229,5.2A5.652,5.652,0,0,1,.909,43.992L0,5.2A5.05,5.05,0,0,1,5.231,0Z" transform="translate(1.118 7.786) rotate(-42)" fill="#ff2152"/>
+      <path id="路径_21" data-name="路径 21" d="M6.4,0C9.361-.067,11.71,1.944,11.65,4.494L10.709,44.7c-.06,2.55-2.505,4.673-5.462,4.742S-.059,47.5,0,44.952l.562-24,.379-16.2C1,2.194,3.447.071,6.4,0Z" transform="translate(8.659 44.542) rotate(-138)" fill="#ff2152"/>
+    </g>
+    <g id="组件_1_1" data-name="组件 1 – 1" transform="translate(404.436 85.002)">
+      <text id="_.tv" data-name=".tv" transform="translate(0 58)" fill="#ff2152" font-size="42" font-family="DiwanKufi, Diwan Kufi"><tspan x="0" y="0">.</tspan><tspan y="0" font-family="LucidaGrande, Lucida Grande">tv</tspan></text>
+    </g>
+    <g id="组_226" data-name="组 226" transform="translate(0 -2)">
+      <path id="路径_1" data-name="路径 1" d="M33.318,86.718l9.99.106a2.619,2.619,0,0,0,1.244-.4,3.47,3.47,0,0,0,.88-1.143S57.458,64.2,58.375,61.533c.75-2.189,2.474-6.717,1.45-11.512-1.355-6.327-7.09-12.913-15.481-13.073-5.653-.11-14.494,3.007-17.237,11.133a16.829,16.829,0,0,0,14,22.375l-8.075,14.96a1.415,1.415,0,0,0-.207.771A.925.925,0,0,0,33.318,86.718Z" transform="translate(277.562 60.043)" fill="#ff2152" fill-rule="evenodd"/>
+      <ellipse id="椭圆_1" data-name="椭圆 1" cx="5.351" cy="6.286" rx="5.351" ry="6.286" transform="translate(315.344 106.306)" fill="#181827"/>
+    </g>
+    <g id="组_212" data-name="组 212" transform="translate(343.562 97.181)">
+      <rect id="矩形_10" data-name="矩形 10" width="11.157" height="10.143" rx="5.071" fill="#ff2152"/>
+      <rect id="矩形_10-2" data-name="矩形 10" width="11.157" height="35.5" rx="5.579" transform="translate(0 13.186)" fill="#ff2152"/>
+    </g>
+  </g>
+</svg>

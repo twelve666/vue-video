@@ -1,0 +1,172 @@
+html {
+  min-height: 100%;
+  background-color: #181827;
+}
+[v-cloak] {
+  display: none !important;
+}
+p,
+div,
+span {
+  margin: 0px;
+}
+.likeClass {
+  text-align: left;
+  padding-left: 50px;
+  margin-bottom: 30px;
+  height: 60px;
+  line-height: 60px;
+  font-size: 0.5rem;
+  color: #fff;
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  span{
+    display: block;
+  }
+  .span {
+    display: block;
+    width: 6px;
+    height: 32px;
+    background-color: #ff2152;
+    margin-right: 13px;
+    border-radius: 10px;
+    border: 1px solid #ff2152;
+  }
+  .more {
+    position: absolute;
+    right: 30px;
+    font-size: 24px;
+    color: #c1c1c3;
+  }
+}
+.van-search,
+.van-search__content,
+.van-cell,
+.van-field__body {
+  height: 100%;
+  padding: 0px;
+}
+.van-search__content--round {
+  border-radius: 64px;
+}
+.van-search__content {
+  background-color: rgba($color: #fff, $alpha: 0.1);
+}
+.van-field__control {
+  color: #ababab;
+}
+.van-cell {
+  color: #ababab;
+}
+.top_mid {
+  .van-icon,
+  .van-icon-search {
+    font-size: 0.6rem !important;
+    line-height: 150% !important;
+    margin-left: 16px !important;
+  }
+}
+.van-icon-search {
+  font-size: 0.6rem !important;
+  line-height: 150% !important;
+  margin-left: 16px !important;
+}
+.van-swipe-item {
+  img {
+    display: block;
+    width: 100%;
+    height: 260px;
+  }
+}
+.video-js .vjs-big-play-button {
+  left: 50% !important;
+  top: 50% !important;
+  transform: translate(-50%, -50%) !important;
+}
+.van-tabs--line .van-tabs__wrap {
+  height: auto;
+}
+.van-tabs__nav--line {
+  padding-bottom: 0.4rem;
+}
+.van-tabs__line {
+  width: 0.6rem !important;
+  height: 0.09rem !important;
+  background-color:#ff2152 !important;
+}
+.video-js .vjs-big-play-button {
+  /* 中间大的播放按钮 */
+  font-size: 2.5em;
+  line-height: 2.3em;
+  height: 138px !important;
+  width: 138px !important;
+  background-color: rgba(255, 255, 255, 0) !important;
+  background-image: url(../assets/icon_play.png);
+  background-size: 100%;
+  border-width: 0.12em !important;
+  border: none !important;
+}
+.video-js .vjs-big-play-button .vjs-icon-placeholder:before {
+  content: "" !important;
+}
+.video-js .vjs-play-progress {
+  background-color: #ff2152 !important;
+}
+.video-js .vjs-play-progress:before {
+  top: -1em !important;
+}
+//覆盖swiper样式
+.swiper-pagination-bullet {
+  width: 19px !important;
+  height: 19px !important;
+  background: rgba(255, 255, 255, 0.6) !important;
+}
+.swiper-pagination-bullet-active {
+  background: rgba(255, 33, 82, 0.6) !important;
+}
+// 广告位置样式
+.adPosition {
+  margin: 30px 0px;
+  img {
+    display: block;
+    width: 680px;
+    height: 220px;
+    margin: 0 auto;
+  }
+}
+.searchWrap {
+  .van-tab__text {
+    font-size: 34px;
+    color: #c1c1c3;
+  }
+  .van-tab--active {
+    .van-tab__text {
+      color: #ff2152 !important;
+    }
+  }
+}
+// navBar样式修改
+.van-nav-bar {
+  background-color: #181827;
+  .van-nav-bar__title {
+    font-size: 36px;
+    color: #b7b7b9;
+  }
+}
+.van-sticky{
+  background-color: #181827;
+}
+.getMoreClass {
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  p {
+    font-size: 30px;
+  }
+  .van-loading__spinner {
+    margin-left: 24px;
+  }
+}
